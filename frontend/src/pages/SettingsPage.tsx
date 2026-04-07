@@ -20,7 +20,7 @@ const TEMPLATE_WEIGHTS: Record<string, Record<string, number>> = {
     "User Value": 0.15, "Engineering Effort": 0.10, "Time-to-Market": 0.10,
     "Risk": 0.20, "Cost": 0.10, "Maintainability": 0.10, "Strategic Alignment": 0.05, "Compliance/Privacy": 0.20,
   },
-  "Cost Optimisation": {
+  "Cost Optimization": {
     "User Value": 0.10, "Engineering Effort": 0.15, "Time-to-Market": 0.10,
     "Risk": 0.10, "Cost": 0.35, "Maintainability": 0.10, "Strategic Alignment": 0.05, "Compliance/Privacy": 0.05,
   },
